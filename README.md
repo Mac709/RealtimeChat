@@ -1,3 +1,3 @@
-# RealtimeChat
+# RealtimeChat(React-fastAPI)
 
-https://www.youtube.com/watch?v=EvSUJ5lUcBw
+https://www.youtube.com/watch?v=zmr4t0FudpQ
